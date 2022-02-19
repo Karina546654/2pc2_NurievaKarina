@@ -10,7 +10,7 @@ namespace pz_2_3
         int v;
         int s;
         public static int schet = 0;//Статический
-        public int figura = 0;
+        
         
 
         public Parallelepiped(int a1, int b1, int c1) //поля класса
